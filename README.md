@@ -16,7 +16,7 @@
 
 ## 🔧 使用与反馈
 - **安装方法**：放入 ''resourcepacks'' 文件夹并在游戏中加载即可。
-- **反馈渠道**：[Issues]
+- **反馈渠道**：https://github.com/Ludhlhlhl/ChaosPersists-Translation/issues
 
 ---
 
