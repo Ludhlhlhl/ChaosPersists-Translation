@@ -16,9 +16,8 @@
 2. **数据来源**：译名参考大量依赖于 **MC百科** 开放的数据支持，感谢百科编辑者的辛勤维护。
 3. **AI角色**：**DeepSeek AI** 在本项目中仅作为翻译辅助工具，最终文本的准确性及版权归本项目所有。
 
-## 🔧 使用与反馈
+## 🔧 使用
 - **安装方法**：放入 ''resourcepacks'' 文件夹并在游戏中加载即可。
-- **反馈渠道**：https://github.com/Ludhlhlhl/ChaosPersists-Translation/issues
 
 ---
 
