@@ -1,7 +1,7 @@
 # ChaosPersists-Translation
 # Chaos Persists 汉化包
 
-> **版本适配**：Minecraft 1.20.1 | 模组版本 0.3+
+> **版本适配**：Minecraft 1.20.1 | 模组版本 0.9+
                          1.12.2 | 模组版本 1.2.7
                          1.7.10 | 模组版本 20.3
 > **汉化状态**：99% 完全覆盖
