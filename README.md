@@ -21,7 +21,7 @@
 
 ---
 
-**网盘下载地址**：[https://1843887803.share.123pan.cn/123pan/iG7bTd-TvS33]  
+**网盘下载地址（更新较慢）**：[https://1843887803.share.123pan.cn/123pan/iG7bTd-TvS33]  
 
 ---
 
